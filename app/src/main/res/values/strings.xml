@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Videogames</string>
+    <string name="textview">TextView</string>
+    <string name="change">Change</string>
+    <string name="txtNewVideogame">txtNewVideogame</string>
+    <string name="cancel">Cancel</string>
+    <string name="videogame">Videogame</string>
+    <string name="reload">Reload</string>
+    <string name="clean">Clean</string>
+    <string name="reload_decault">Reload Default</string>
+    <string name="email">Email</string>
+
+</resources>
